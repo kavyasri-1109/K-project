@@ -4,6 +4,8 @@ my first project using react-J
 ## it is used for heading 2 don't forgot to give space
 ### it is used for heading 3 
 #### it is used for heading 4
+##### headung 6
+###### heading 5
 *font style in italic* (after * dont give space
 **font style in bold** (after ** dont give space)
 ***font style in italic bond*** (after *** dont give space)
@@ -23,6 +25,8 @@ This is known as Font emphasis
 
 ![kavya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0qSbsFBoNZKDF-sIKtFJUKdZ_xRGFST53w&usqp=CAU)
 
-As Kavya West said:
-> We're living the future
-> so the present is our past.
+[Google](http://www.google.com)
+~~~python
+def fun();
+ print("hai")
+~~~
